@@ -159,18 +159,6 @@
 		{
 			"message" "普通药役模式"
 		}
-		"sm_fm AnneHanpy"
-		{
-			"message" "1vHunter模式"
-		}
-		"sm_fm Alone"
-		{
-			"message" "单人装B模式"
-		}
-		"sm_fm realism"
-		{
-			"message" "纯净写实模式"
-		}
 	}
 	"开关回血"
 	{

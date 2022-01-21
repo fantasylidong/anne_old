@@ -2,17 +2,17 @@
 {
 	"2333"
 	{
-		"servername"	"Anne电信1服"
+		"servername"	"Anne电信1服[无内鬼]"
 	}
 	
 	"2334"
 	{
-		"servername"	"Anne电信2服"
+		"servername"	"Anne电信2服[无内鬼]"
 	}
 	
 	"2335"
 	{
-		"servername"	"Anne电信3服"
+		"servername"	"Anne电信3服[无内鬼]"
 	}
 	"2336"
 	{

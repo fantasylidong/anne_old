@@ -216,5 +216,15 @@
 			"message" "关闭死门"
 		}
 	}
-	
+	"开关高级人机"
+	{
+		"sm_cvar sb_fix_enabled 1"
+		{
+			"message" "开启高级人机"
+		}
+		"sm_cvar sb_fix_enabled 0"
+		{
+			"message" "关闭高级人机"
+		}
+	}
 }

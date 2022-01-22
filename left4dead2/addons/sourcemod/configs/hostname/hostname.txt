@@ -16,22 +16,22 @@
 	}
 	"2336"
 	{
-		"servername"	"Anne电信4服"
+		"servername"	"Anne电信4服[无内鬼]"
 	}
 	"2337"
 	{
-		"servername"	"Anne电信5服"
+		"servername"	"Anne电信5服[无内鬼]"
 	}
 	"2338"
 	{
-		"servername"	"Anne电信6服"
+		"servername"	"Anne电信6服[无内鬼]"
 	}
 	"2339"
 	{
-		"servername"	"Anne电信7服"
+		"servername"	"Anne电信7服[无内鬼]"
 	}
 	"2340"
 	{
-		"servername"	"Anne电信8服"
+		"servername"	"Anne电信8服[无内鬼]"
 	}
 }

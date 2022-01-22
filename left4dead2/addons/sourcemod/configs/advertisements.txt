@@ -74,6 +74,6 @@
 	"15"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}本服OP 东 ，常玩的可以在组里申请管理员"
+		"text"		"{LIGHTGREEN}本服OP 东 ，常玩的可以在steam组里申请管理员"
 	}
 }

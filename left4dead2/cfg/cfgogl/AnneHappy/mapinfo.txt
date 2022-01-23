@@ -21,7 +21,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "250.000000"
 		"end_dist"          "200.000000"
-		"horde_limit"       "20"
+		"horde_limit"       "120"
 		"tank_ban_flow_min" "75"
         "tank_ban_flow_max" "100"
 	}
@@ -32,7 +32,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "150.000000"
 		"end_dist"          "200.000000"
-		"horde_limit"       "30"
+		"horde_limit"       "180"
 		"tank_ban_flow_min" "60"
         "tank_ban_flow_max" "100"
 		"max_distance"      "600"
@@ -65,7 +65,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "150.000000"
-		"horde_limit"       "20"
+		"horde_limit"       "120"
 		"max_distance"      "500"
 	}
 	"c2m3_coaster"
@@ -76,7 +76,7 @@
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "150.000000"
 		"max_distance"      "600"
-		"horde_limit"       "45"
+		"horde_limit"       "240"
 		"tank_ban_flow_min" "36"
 		"tank_ban_flow_max" "49"
 	}
@@ -88,7 +88,7 @@
 		"start_extra_dist"  "150.000000"
 		"end_dist"          "250.000000"
 		"max_distance"      "500"
-		"horde_limit"       "30"
+		"horde_limit"       "180"
 	}
 	"c2m5_concert"
 	{
@@ -220,7 +220,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "250.000000"
-		"horde_limit"       "30"
+		"horde_limit"       "180"
 		"tank_ban_flow_min" "50"
 		"tank_ban_flow_max" "100"
 	}
@@ -269,7 +269,7 @@
 		"end_dist"          "50.000000"
 		"tank_ban_flow_min" "60"
 		"tank_ban_flow_max" "100"
-		"horde_limit"       "30"
+		"horde_limit"       "150"
 		"max_distance"      "800"
 	}
 	"c6m3_port"
@@ -433,7 +433,7 @@
 		"end_dist"          "324.451355"
 		"tank_ban_flow_min" "55"
 		"tank_ban_flow_max" "100"
-		"horde_limit"       "30"
+		"horde_limit"       "180"
 	}
 	"c10m5_houseboat"
 	{
@@ -529,7 +529,7 @@
 		"start_extra_dist"  "264.843231"
 		"end_point"         "7754.335938 -11443.834961 440.031250"
 		"end_dist"          "264.020966"
-		"horde_limit"       "20"
+		"horde_limit"       "90"
 		"tank_ban_flow_min" "80"
 		"tank_ban_flow_max" "100"
 		"max_distance"      "400"
@@ -541,7 +541,7 @@
 		"start_extra_dist"  "264.932068"
 		"end_point"         "10398.775391 -310.353424 2.031253"
 		"end_dist"          "316.505157"
-		"horde_limit"       "20"
+		"horde_limit"       "90"
 		"max_distance"      "400"
 	}
 	"c12m5_cornfield"
@@ -575,7 +575,7 @@
 		"start_extra_dist"  "604.901245"
 		"end_point"         "470.932892 8823.397461 -368.968750"
 		"end_dist"          "324.996063"
-		"horde_limit"       "30"
+		"horde_limit"       "180"
 	}
 	"c13m3_memorialbridge"
 	{
@@ -610,7 +610,7 @@
 		"start_extra_dist"  "285.327118"
 		"end_point"         "-4824.578125 -7661.144043 566.031250"
 		"end_dist"          "393.489532"
-		"horde_limit"       "20"
+		"horde_limit"       "120"
 		"tank_ban_flow_min" "50"
 		"tank_ban_flow_max" "100"
 	}
@@ -798,7 +798,7 @@
 	}
 	"wfp3_mill"
 	{
-		"horde_limit"       "20"
+		"horde_limit"       "90"
 		"ItemLimits"
 		{
 			"pain_pills"    "8"
@@ -850,7 +850,7 @@
 	}
 	"msd1_town"
 	{
-		"horde_limit"       "20"
+		"horde_limit"       "120"
 		"tank_ban_flow_min" "70"
 		"tank_ban_flow_max" "100"
 	}
@@ -1551,7 +1551,7 @@
 		"end_point"         "-1100.709839 -8383.968750 -242.025330"
 		"end_dist"          "236.288925"
 		"max_distance"      "600"
-		"horde_limit"       "20"
+		"horde_limit"       "90"
 	}
 	"maria_cristina"
 	{
@@ -1561,7 +1561,7 @@
 		"end_point"         "-8628.766602 -7242.274902 576.063660"
 		"end_dist"          "278.292633"
 		"max_distance"      "600"
-		"horde_limit"       "20"
+		"horde_limit"       "90"
 	}
 	"mnac"
 	{
@@ -1717,7 +1717,7 @@
 		"tank_ban_flow_min" "52"
 		"tank_ban_flow_max" "88"
 		"max_distance"      "600"
-		"horde_limit"       "20"
+		"horde_limit"       "60"
 	}
 	"l4d_tbm_3"
 	{
@@ -1729,7 +1729,7 @@
 		"tank_ban_flow_min" "60"
 		"tank_ban_flow_max" "80"
 		"max_distance"      "500"
-		"horde_limit"       "20"
+		"horde_limit"       "60"
 	}
 	"l4d_tbm_4"
 	{

@@ -227,4 +227,15 @@
 			"message" "关闭高级人机"
 		}
 	}
+	"私有mod开启选项"
+	{
+		"sm_cvar l4d2_addons_eclipse -1"
+		{
+			"message" "开启mod"
+		}
+		"sm_cvar l4d2_addons_eclipse  0"
+		{
+			"message" "关闭mod"
+		}
+	}
 }

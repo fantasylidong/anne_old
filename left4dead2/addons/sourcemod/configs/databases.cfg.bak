@@ -3,17 +3,17 @@
 	"driver_default"		"mysql"
 	
 	// When specifying "host", you may use an IP address, a hostname, or a socket file path
-	
+
 	"sourcebans"
 	{
-		"driver"			"default"
+		"driver"			"mysql"
 		"host"				"10.0.0.168"
 		"database"			"sourcebans"
 		"user"				"morzlee"
 		"pass"				"anne123"
 		"port"			"3306" // EDIT IF NEEDED
 	}
-
+	
 	"l4d_stats"
 	{ 
 		"driver"              "mysql"
@@ -22,15 +22,5 @@
 		"user"                "morzlee"
 		"pass"                "anne123"
 		"port"				  "3306"
-	}
-	"clientprefs"
-	{
-		"driver"			"sqlite"
-		"host"				"localhost"
-		"database"			"clientprefs-sqlite"
-		"user"				"root"
-		"pass"				""
-		//"timeout"			"0"
-		//"port"			"0"
 	}
 }

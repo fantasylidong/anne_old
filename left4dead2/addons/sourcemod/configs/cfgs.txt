@@ -153,6 +153,28 @@
 			"message" "20秒"
 		}
 	}
+	"开关高级人机"
+	{
+		"sm_cvar sb_fix_enabled 1"
+		{
+			"message" "开启高级人机"
+		}
+		"sm_cvar sb_fix_enabled 0"
+		{
+			"message" "关闭高级人机"
+		}
+	}
+	"私有mod开启选项"
+	{
+		"sm_cvar l4d2_addons_eclipse -1"
+		{
+			"message" "开启mod"
+		}
+		"sm_cvar l4d2_addons_eclipse  0"
+		{
+			"message" "关闭mod"
+		}
+	}
 	"模式选择"
 	{
 		"sm_fm AnneHappy"
@@ -214,28 +236,6 @@
 		"sm_cvar coopmode 0"
 		{
 			"message" "关闭死门"
-		}
-	}
-	"开关高级人机"
-	{
-		"sm_cvar sb_fix_enabled 1"
-		{
-			"message" "开启高级人机"
-		}
-		"sm_cvar sb_fix_enabled 0"
-		{
-			"message" "关闭高级人机"
-		}
-	}
-	"私有mod开启选项"
-	{
-		"sm_cvar l4d2_addons_eclipse -1"
-		{
-			"message" "开启mod"
-		}
-		"sm_cvar l4d2_addons_eclipse  0"
-		{
-			"message" "关闭mod"
 		}
 	}
 }

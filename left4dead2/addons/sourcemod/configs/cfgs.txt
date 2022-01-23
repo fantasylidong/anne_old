@@ -153,6 +153,25 @@
 			"message" "20秒"
 		}
 	}
+	"模式选择"
+	{
+		"sm_fm AnneHappy"
+		{
+			"message" "普通药役模式"
+		}
+		"sm_fm AnneHanpy"
+		{
+			"message" "1vHunter模式"
+		}
+		"sm_fm Alone"
+		{
+			"message" "单人装B模式"
+		}
+		"sm_fm WitchParty"
+		{
+			"message" "WitchParty模式"
+		}
+	}
 	"内鬼开关"
 	{
 		"sm_cvar l4d2_player_specials 1"

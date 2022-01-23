@@ -76,4 +76,9 @@
 		"type"		"S"
 		"text"		"{LIGHTGREEN}本服OP 东 ，常玩的可以在steam组里申请管理员"
 	}
+	"16"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}服务器凌晨3点自动关机，早上9点自动开机"
+	}
 }

@@ -76,4 +76,17 @@
 		"type"		"S"
 		"text"		"{LIGHTGREEN}本服OP 东 ，常玩的可以在steam组里申请管理员"
 	}
+<<<<<<< Updated upstream
+=======
+	"16"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}服务器凌晨3点自动关机，早上9点自动开机"
+	}
+	"17"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}服务器提供Anne版本选择，默认最新版本"
+	}
+>>>>>>> Stashed changes
 }

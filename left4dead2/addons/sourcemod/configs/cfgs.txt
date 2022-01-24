@@ -15,6 +15,25 @@
 			"message" "服务器端重启"
 		}
 	}
+	"Anne版本选择"
+	{
+		"sm_fm Anne1-24"
+		{
+			"message" "22-1-24号版本"
+		}
+		"sm_fm Anne11-28"
+		{
+			"message" "21-11-28号版本"
+		}
+		"sm_fm Anne10-10"
+		{
+			"message" "21-10-10号版本"
+		}
+		"sm_fm Anne7-7"
+		{
+			"message" "21-7-7号版本"
+		}
+	}
 	"特感数量"
 	{
 		"exec vote/AnneHappy1.cfg"

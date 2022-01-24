@@ -7,6 +7,27 @@
 			"name" "AnneHappy药役"
 		}
 	}
+	"AnneHappy药役11-28"
+	{
+		"Anne11-28"
+		{
+			"name" "AnneHappy药役11-28"
+		}
+	}
+	"AnneHappy药役10-10"
+	{
+		"Anne10-10"
+		{
+			"name" "AnneHappy药役10-10"
+		}
+	}
+	"AnneHappy药役7-7"
+	{
+		"Anne7-7"
+		{
+			"name" "AnneHappy药役7-7"
+		}
+	}
 	"1vHunters模式"
 	{
 		"AnneHanpy"

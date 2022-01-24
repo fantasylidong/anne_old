@@ -17,7 +17,7 @@
 	}
 	"Anne版本选择"
 	{
-		"sm_fm Anne1-24"
+		"sm_fm Annehappy"
 		{
 			"message" "22-1-24号版本"
 		}
@@ -172,46 +172,6 @@
 			"message" "20秒"
 		}
 	}
-	"模式选择"
-	{
-		"sm_fm AnneHappy"
-		{
-			"message" "普通药役模式"
-		}
-		"sm_fm AnneHanpy"
-		{
-			"message" "1vHunter模式"
-		}
-		"sm_fm Alone"
-		{
-			"message" "单人装B模式"
-		}
-		"sm_fm WitchParty"
-		{
-			"message" "WitchParty模式"
-		}
-	}
-	"内鬼开关"
-	{
-		"sm_cvar l4d2_player_specials 1"
-		{
-			"message" "开启内鬼"
-		}
-		"sm_cvar l4d2_player_specials 0"
-		{
-			"message" "关闭内鬼"
-		}	}
-	"开关回血"
-	{
-		"sm_cvar ReturnBlood 1"
-		{
-			"message" "开启回血"
-		}
-		"sm_cvar ReturnBlood 0"
-		{
-			"message" "关闭回血"
-		}
-	}
 	"开关高级人机"
 	{
 		"sm_cvar sb_fix_enabled 1"
@@ -232,6 +192,47 @@
 		"sm_cvar l4d2_addons_eclipse  0"
 		{
 			"message" "关闭mod"
+		}
+	}
+	"模式选择"
+	{
+		"sm_fm AnneHappy"
+		{
+			"message" "普通药役模式"
+		}
+		"sm_fm AnneHanpy"
+		{
+			"message" "1vHunter模式"
+		}
+		"sm_fm Alone"
+		{
+			"message" "单人装B模式"
+		}
+		"sm_fm realism"
+		{
+			"message" "纯净写实模式"
+		}
+	}
+	"内鬼开关"
+	{
+		"sm_cvar l4d2_player_specials 1"
+		{
+			"message" "开启内鬼"
+		}
+		"sm_cvar l4d2_player_specials 0"
+		{
+			"message" "关闭内鬼"
+		}	}
+>>>>>>> Stashed changes
+	"开关回血"
+	{
+		"sm_cvar ReturnBlood 1"
+		{
+			"message" "开启回血"
+		}
+		"sm_cvar ReturnBlood 0"
+		{
+			"message" "关闭回血"
 		}
 	}
 	"武器配置"
@@ -267,5 +268,4 @@
 			"message" "关闭死门"
 		}
 	}
-	
 }

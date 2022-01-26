@@ -24,66 +24,56 @@
 	"5"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}为了游戏体验 本组药役建议游戏时间在250小时"
+		"text"		"{LIGHTGREEN}血量低于40时要考虑跳楼表演了 因为会拖慢队伍推进速度哦"
 	}
 	"6"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}血量低于40时要考虑跳楼表演了 因为会拖慢队伍推进速度哦"
+		"text"		"{LIGHTGREEN}!zs自杀  !tank查看boss !rpg购物商店 !xx模式查询"
 	}
 	"7"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}!zs自杀  !tank查看boss !rpg购物商店 !xx模式查询"
+		"text"		"{LIGHTGREEN}本组服务器都有商店系统 打不过可以输入!buy或!rpg进行氪金"
 	}
 	"8"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}本组服务器都有商店系统 打不过可以输入!buy或!rpg进行氪金"
+		"text"		"{LIGHTGREEN}近战没必要留给一号位 没有近战的一号位本身就是傻逼"
 	}
 	"9"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}近战没必要留给一号位 没有近战的一号位本身就是傻逼"
+		"text"		"{LIGHTGREEN}tank局建议不要太贪输出哦 该退就退 小心被特感爆菊花"
 	}
 	"10"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}三方图下载地址  https://cloud.189.cn/t/NjqENv6beEvu"
+		"text"		"{LIGHTGREEN}尽量不要被胖子喷哦 被喷不但拖节奏还很难帮助队友"
 	}
 	"11"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}tank局建议不要太贪输出哦 该退就退 小心被特感爆菊花"
+		"text"		"{LIGHTGREEN}如果电脑不会给药 可以对着电脑疯狂按E进行抢劫"
 	}
 	"12"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}尽量不要被胖子喷哦 被喷不但拖节奏还很难帮助队友"
+		"text"		"{LIGHTGREEN}默认关闭高级人机，开了会让你自己觉得自己很呆，可以投票开启"
 	}
 	"13"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}如果电脑不会给药 可以对着电脑疯狂按E进行抢劫"
+		"text"		"{LIGHTGREEN}本服OP 东 ，常玩的可以在steam组里申请管理员"
 	}
 	"14"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}默认关闭高级人机，开了会让你自己觉得自己很呆，可以投票开启"
+		"text"		"{LIGHTGREEN}服务器凌晨3点自动关机，早上9点自动开机"
 	}
 	"15"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}本服OP 东 ，常玩的可以在steam组里申请管理员"
-	}
-	"16"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}服务器凌晨3点自动关机，早上9点自动开机"
-	}
-	"17"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}服务器提供Anne版本选择，默认当前最新版本22-1-24"
+		"text"		"{LIGHTGREEN}服务器提供Anne版本选择，默认当前最新版本22-1-25"
 	}
 }

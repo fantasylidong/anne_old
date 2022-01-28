@@ -208,9 +208,9 @@
 		{
 			"message" "单人装B模式"
 		}
-		"sm_fm realism"
+		"sm_fm WitchParty"
 		{
-			"message" "纯净写实模式"
+			"message" "WitchParty模式"
 		}
 	}
 	"内鬼开关"
@@ -223,7 +223,6 @@
 		{
 			"message" "关闭内鬼"
 		}	}
->>>>>>> Stashed changes
 	"开关回血"
 	{
 		"sm_cvar ReturnBlood 1"

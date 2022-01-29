@@ -222,8 +222,8 @@
 		"sm_cvar l4d2_player_specials 0"
 		{
 			"message" "关闭内鬼"
-		}	}
->>>>>>> Stashed changes
+		}	
+	}
 	"开关回血"
 	{
 		"sm_cvar ReturnBlood 1"

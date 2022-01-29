@@ -84,6 +84,6 @@
 	"17"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}服务器提供Anne版本选择，默认当前最新版本22-1-24"
+		"text"		"{LIGHTGREEN}服务器提供Anne版本选择，默认当前最新版本22-1-25"
 	}
 }
